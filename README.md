@@ -1,4 +1,4 @@
-# CNN-for-Image-Classification
+# CNN for Image Classification
 Situation: 
 Image classification is one of the most important part of digital image analysis available to us today. Image classification applications are used in many areas, such as medical imaging, object identification in satellite images, traffic control systems, brake light detection, machine vision, and more. 
 
